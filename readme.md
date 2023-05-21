@@ -61,9 +61,13 @@ Em breve será possível ver a página funcionando, por enquanto ainda estou cod
 	<li> HTML5 (estruturação)</li>
 	<li> CSS3 (estilização e responsividade)</li>
 	<li> JavaScript (interatividade)</li>
+	<li> API - Fetch API (utilizada para poder invocar o JSON da Poke API através do HTML, usando JS e sem ter que instalar nada, pois os navegadores mais modernos já possuem integração com essa API)</li>
+	<li> API - Poke API (API para permitir a requisição e troca de dados e informações entre cliente e servidor, que possui as informações originais dos pokemons)</li>
 	<li> Git	v2.40 (versionamento)</li>
 	<li> Github (hospedagem e divulgação do projeto)</li>
-	<li> Ghostwriter (edição de arquivos Markdown - MD)</li>
+	<li> Ghostwriter (Ide para edição de arquivos Markdown - MD)</li>
+	<li> Visual Studio Code - VS Code (IDE manipulação de arquivos HTML, CSS, JS e outros)</li>
+	<li> Extensão LiveServer v5.7.9 (em substituição ao HTTP Server, estou utilizando essa extensão para o VS Code para criar um servidor de desenvolvimento local com atualização em tempo real)</li>
 </ul>
   <p align="justify">
   Obs. O sistema operacional utilizado durante todo o estudo, realização de exercícios, desafios de código e manipulação dos arquivos foi o Linux Mint 20.3 - Una (Debian).
