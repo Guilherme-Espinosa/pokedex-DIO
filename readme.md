@@ -36,6 +36,9 @@
         </td>
       </tr>
       <tr>
+        <td>Deploy</td> <td><a href="https://guilherme-espinosa.github.io/pokedex-DIO/">Pokedex - Github Pages</a></td>
+      </tr>
+      <tr>
         <td>Links úteis</td> <td><a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web">Mozilla Developer Network (MDN)</a></td>
       </tr>
     </table>
@@ -74,3 +77,5 @@ Em breve será possível ver a página funcionando, por enquanto ainda estou cod
   </p>
   
 ---
+
+![Captura de tela do projeto após finalizado.](./assets/img/Captura.png "Captura de tela do projeto")
