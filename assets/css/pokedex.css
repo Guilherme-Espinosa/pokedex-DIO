@@ -11,13 +11,14 @@
     flex-direction: column;
     margin: .5rem;
     padding: 1rem;
+    text-transform: capitalize;
     border-radius: 1REM;
     background-color: #48D1B0;
 }
 
 .pokemon .number {
-    color: #40aa91;
-    opacity: .8;
+    color: #99f8e7;
+    opacity: .9;
     text-align: right;
     font-size: .625rem;
 }
@@ -37,6 +38,7 @@
 .pokemon .detail .types {
     padding: 0;
     margin: 0;
+    width: 4rem;
     list-style: none;
 }
 
@@ -48,10 +50,34 @@
     margin: .25 0;
     font-size: .625rem;
     text-align: center;
-    border-radius: 5rem;
+    border-radius: 1rem;
 }
 
 
+.pokemon p {
+    padding: 0;
+    margin: 0;
+    font-size: 1rem;
+    color: #FFFFFF;
+}
+
+
+.pokemon .detail .abilities {
+    padding: 0;
+    margin: 0 auto;
+    list-style: none;
+}
+
+.pokemon .detail .abilities .ability {
+    color: #FFFFFF;
+    padding: .25rem .5rem;
+    margin: .25rem 0;
+    font-size: .625rem;
+    border-radius: 1rem;
+    filter: brightness(1.1);
+    text-align: center;
+    background-color: #c06224;
+}
 
 .pokemon .detail img {
     max-width: 100%;
