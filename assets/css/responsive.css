@@ -1,16 +1,16 @@
-@media screen and (min-width: 380px) {
+@media screen and (min-width: 320px) {
     .pokemons {
         grid-template-columns: 1fr 1fr;
     }
 }
 
-@media screen and (min-width: 576px) {
+@media screen and (min-width: 481px) {
     .pokemons {
         grid-template-columns: 1fr 1fr 1fr;
     }
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 769px) {
     .content {
         max-width: 992px;
         height: auto;
@@ -22,3 +22,17 @@
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
 }
+
+@media screen and (min-width: 1201px) {
+    .pokemons {
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    }
+}
+
+/* 
+320px — 480px: dispositivos móveis
+481px — 768px: iPads, tablets
+769px — 1024px: telas pequenas, laptops
+1025px — 1200px: desktops, telas grandes
+1201px e acima —  telas muito grandes, TVs
+*/

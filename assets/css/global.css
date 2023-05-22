@@ -4,12 +4,32 @@
 }
 
 body {
-    background-color: #f6f8fc;
+    background-color: #c6d8fc;
 }
 
 .content {
     width: 100vw;
     height: 100vh;
     padding: 1rem;
-    background-color: #fff;
+    background-color: #efeefd;
+}
+
+h1 {
+    text-align: center;
+}
+
+.content .pagination {
+    margin: 6px;
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+}
+
+.content .pagination .morePokemons {
+    background-color: #c9c9fc;
+    height: 30px;
+    width: 180px;
+    border-width: 5px;
+    border-color: #c6d8fc;
+    border-radius: 5%;
 }
