@@ -58,11 +58,11 @@ Em breve será possível ver a página funcionando, por enquanto ainda estou cod
 
 <h3 align="center"> Tecnologias e IDEs utilizadas </h3>
 <ul align="left">
-	<li> HTML5 (estruturação)</li>
+	<li> HTML5 (estruturação de páginas web)</li>
 	<li> CSS3 (estilização e responsividade)</li>
-	<li> JavaScript (interatividade)</li>
-	<li> API - Fetch API (utilizada para poder invocar o JSON da Poke API através do HTML, usando JS e sem ter que instalar nada, pois os navegadores mais modernos já possuem integração com essa API)</li>
-	<li> API - Poke API (API para permitir a requisição e troca de dados e informações entre cliente e servidor, que possui as informações originais dos pokemons)</li>
+	<li> JavaScript (interatividade, processamento e manipulação de dados)</li>
+	<li> API - Fetch API (utilizada para poder invocar o JSON da Poke API para o HTML, usando JavaScript e sem ter que instalar nada, pois os navegadores mais modernos já possuem integração com a Fetch API)</li>
+	<li> API Rest - Poke API (utilizada para permitir a requisição e troca de dados e informações entre cliente e servidor, que possui as informações originais dos pokemons)</li>
 	<li> Git	v2.40 (versionamento)</li>
 	<li> Github (hospedagem e divulgação do projeto)</li>
 	<li> Ghostwriter (Ide para edição de arquivos Markdown - MD)</li>

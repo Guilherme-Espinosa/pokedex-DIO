@@ -5,26 +5,20 @@
 }
 
 @media screen and (min-width: 576px) {
-    body .content {
-        max-width: 576px;
-        margin: 0 auto;
-    }
-
-    body .content .pokemons {
+    .pokemons {
         grid-template-columns: 1fr 1fr 1fr;
     }
-
 }
 
 @media screen and (min-width: 992px) {
-    body .content {
+    .content {
         max-width: 992px;
         height: auto;
         margin: 1rem auto;
+        border-radius: 1rem;
     }
-
-    body .content .pokemons {
+    
+    .pokemons {
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
-
 }
