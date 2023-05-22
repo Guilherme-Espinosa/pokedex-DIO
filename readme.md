@@ -11,7 +11,7 @@
   <div class="status" align="top">
     <table align="space-between">
       <tr>
-        <td>Status:</td> <td>Em andamento</td>
+        <td>Status:</td> <td>Finalizado</td>
       </tr>
       <tr>
         <td>Responsável:</td> <td><a href="https://www.linkedin.com/in/guilherme-espinosa/">Guilherme Espinosa</a></td>
@@ -50,11 +50,7 @@
 
 <p align="justify">
 O Potência Tech powered by iFood voltou com tudo e agora traz um Bootcamp focado em Angular! Com cursos, desafios de projeto, desafios de código e mentorias exclusivas.
-<b>Esse é um projeto abordado pelo Bootcamp e visa a prática e desenvolvimento das aptidões em HTML5, CSS3, JavaScript, Http  Server, uso de Medias Queries e consumo de APIs</b>.
-</p>
-
-<p align="justify">
-<b>Github Pages já está funcionando</b>. demorei algum tempo, pois preferi não apenas assistir as aulas e baixar os arquivos, mas sim fazer por mim mesmo. Inclusive fiz algumas pequenas alterações visando uma melhor organização do código e melhor visualização da página. 
+<b>Esse foi um projeto abordado pelo Bootcamp e visa a prática e desenvolvimento das aptidões em HTML5, CSS3, JavaScript, Http  Server, uso de Medias Queries, consumo de APIs e demais tecnologias.</b>.
 </p>
 
 ---
@@ -66,11 +62,11 @@ O Potência Tech powered by iFood voltou com tudo e agora traz um Bootcamp focad
 	<li> JavaScript (interatividade, processamento e manipulação de dados)</li>
 	<li> API - Fetch API (utilizada para poder invocar o JSON da Poke API para o HTML, usando JavaScript e sem ter que instalar nada, pois os navegadores mais modernos já possuem integração com a Fetch API)</li>
 	<li> API Rest - Poke API (utilizada para permitir a requisição e troca de dados e informações entre cliente e servidor, que possui as informações originais dos pokemons)</li>
-	<li> Git	v2.40 (versionamento)</li>
+	<li> Git	v2.40 Foi seguido o conceito de versionamento <i>Semântico Semantic Versioning</i> "SemVer" (versionamento do código)</li>
 	<li> Github (hospedagem e divulgação do projeto)</li>
-	<li> Ghostwriter (Ide para edição de arquivos Markdown - MD)</li>
-	<li> Visual Studio Code - VS Code (IDE manipulação de arquivos HTML, CSS, JS e outros)</li>
-	<li> Extensão LiveServer v5.7.9 (em substituição ao HTTP Server, estou utilizando essa extensão para o VS Code para criar um servidor de desenvolvimento local com atualização em tempo real)</li>
+	<li> Ghostwriter (IDE para edição de arquivos Markdown - MD)</li>
+	<li> Visual Studio Code - VS Code (IDE para manipulação de arquivos HTML, CSS, JS e outros)</li>
+	<li> Extensão VS Code LiveServer v5.7.9 (Utilizada em substituição ao HTTP Server (extensão para criar um servidor de deploy e desenvolvimento local com atualização em tempo real)</li>
 </ul>
   <p align="justify">
   Obs. O sistema operacional utilizado durante todo o estudo, realização de exercícios, desafios de código e manipulação dos arquivos foi o Linux Mint 20.3 - Una (Debian).
