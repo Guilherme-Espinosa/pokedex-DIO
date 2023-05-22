@@ -54,7 +54,7 @@ O Potência Tech powered by iFood voltou com tudo e agora traz um Bootcamp focad
 </p>
 
 <p align="justify">
-Em breve será possível ver a página funcionando, por enquanto ainda estou codificando-a, pois preferi não apenas assistir as aulas e baixar os arquivos, mas sim fazer por mim mesmo. Inclusive fiz algumas alterações visando uma melhor organização do código. 
+<b>Github Pages já está funcionando</b>. demorei algum tempo, pois preferi não apenas assistir as aulas e baixar os arquivos, mas sim fazer por mim mesmo. Inclusive fiz algumas pequenas alterações visando uma melhor organização do código e melhor visualização da página. 
 </p>
 
 ---
