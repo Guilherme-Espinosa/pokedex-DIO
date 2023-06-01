@@ -6,6 +6,7 @@
 </header>
 
 ---
+
 <div class="basicInfo" align="center">
   
   <div class="status" align="top">
@@ -43,6 +44,7 @@
       </tr>
     </table>
   </div>
+</div>
 
   ---
 
